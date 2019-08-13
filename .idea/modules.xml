@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/superman-demo.iml" filepath="$PROJECT_DIR$/superman-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superman-demo-common/superman-demo-common.iml" filepath="$PROJECT_DIR$/superman-demo-common/superman-demo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superman-demo-dao/superman-demo-dao.iml" filepath="$PROJECT_DIR$/superman-demo-dao/superman-demo-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superman-demo-model/superman-demo-model.iml" filepath="$PROJECT_DIR$/superman-demo-model/superman-demo-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superman-demo-service/superman-demo-service.iml" filepath="$PROJECT_DIR$/superman-demo-service/superman-demo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superman-demo-web/superman-demo-web.iml" filepath="$PROJECT_DIR$/superman-demo-web/superman-demo-web.iml" />
+    </modules>
+  </component>
+</project>
